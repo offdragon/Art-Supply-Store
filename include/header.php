@@ -1,6 +1,6 @@
 <!-- Header code -->
 <!-- Header Goes here include:
-        Logo
+        Logo -- make logo clickable
         Search Bar
         Sign-In
         Cart

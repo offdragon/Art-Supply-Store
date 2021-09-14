@@ -8,6 +8,12 @@
     <title>Home Page</title>
 </head>
 <body>
-    
+    <?php include("include/header.php");?>
+
+    <!-- Main Body include:
+            Still image of banner
+            Scrolling/Carousel of Suppliers
+            Scrolling/Carousel of Types of Supplies
+    -->
 </body>
 </html>
